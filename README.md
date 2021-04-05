@@ -1,11 +1,8 @@
-#Lightning Distance Calculator
-This is my fun little Lightning Distance Calculator side project
+# Lightning Distance Calculator
 
-make sure you have the libraries installed
-run these commands:
-npm init
-npm i --dev-start nodemon
-npm i ejs
+This is my fun little Lightning Distance Calculator side project.
 
-the type in the terminal npm start
-the web application should be on localhost:3000
+### Setting up code
+1. Install libraries using `npm install`
+2. Open your CMD or Terminal and use `npm start`
+3. The web application will then be available on `localhost:8080`
